@@ -12,10 +12,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from itel-L6006S device
-$(call inherit-product, device/itel/itel-L6006S/device.mk)
+$(call inherit-product, device/itel/L6006S/device.mk)
 
-PRODUCT_DEVICE := itel-L6006S
-PRODUCT_NAME := omni_itel-L6006S
+PRODUCT_DEVICE := L6006S
+PRODUCT_NAME := omni_L6006S
 PRODUCT_BRAND := Itel
 PRODUCT_MODEL := itel L6006S
 PRODUCT_MANUFACTURER := itel
