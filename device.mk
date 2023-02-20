@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/itel/itel-L6006S
+LOCAL_PATH := device/itel/L6006S
